@@ -31,4 +31,4 @@
 
 ## 7주차 과제
 
-<img width="300" height="600" src="./png/7.PNG"></img>
+<img width="300" height="600" src="./png/7주차.PNG"></img>
